@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Taweret is the goddess of childbirth and fertility. Her name means “great one”. She is depicted as a walking hippopotamus with hands and feet of a lion and sometimes a crocodile on her back. She has enlarged breasts and a full belly which conveys birth and fertility. The crocodile on her back was said to be Sobek and he was her husband. Pregnant women wore amulets with her on them to protect their pregnancies."
+    android:background="@drawable/background">
+    
+
+</TextView>

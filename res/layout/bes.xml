@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Bes is the protector of households, mothers, children, and childbirth. Due to these attributes he was worshipped in many households. As time went on he became known as the defender of everything good and the enemy of all that is bad. He is depicted as a combination of a lion, ape-man, and a miscarried fetus. He is usually wearing a lion skin on his back. He is often pictured in portrait, which is facing toward the viewer. This is very different from other gods, as they usually appeared in profile, facing sideways. His picture appeared on many soldier’s tunics ready to attack on any incoming evil. He scared away demons from Egyptian’s homes so his statue was placed in many homes. Eventually he also came to symbolize other good things in life like music, dance, and sexual pleasure. Tattoos of Bes could be found on the thighs of dancers, musicians, and servant girls during the New Kingdom."
+    android:background="@drawable/background">
+    
+
+</TextView>

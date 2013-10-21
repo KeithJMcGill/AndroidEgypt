@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Osiris is known as the god of the afterlife, the underworld, and the dead. It is believed if you were associated with Osiris at death then as Osiris rose from the dead then you would with him and gain eternal life through imitative magic. Egyptian’s kings were the only ones that would be associated with him until later on in the New Kingdom, all people could be if they incurred the costs of the assimilation rituals. Osiris is depicted as a green skinned man with a pharaoh’s beard, mummy wrapped legs, a crown with two large ostrich feathers, and holding a crook and flail. His major cult following was in Abydos where he is part of the triad with his wife Isis and his son Horus."
+    android:background="@drawable/background">
+    
+
+</TextView>

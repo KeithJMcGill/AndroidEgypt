@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Satet is the goddess of the flooding of the Nile River and of fertility. Her name means to shoot forth, which refers to the flooding. She is viewed as the mother of the Nile River. She is depicted as wearing the conical crown of Upper Egypt which has antelope horns on the sides of it. She sometimes is depicted holding an ankh or a bow and arrows."
+    android:background="@drawable/background">
+    
+
+</TextView>

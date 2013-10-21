@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Thoth is the god of wisdom and knowledge. He is often regarded as the patron deity of the art of writing. The hieroglyphs system originated with the temple administration of the cult of Thoth. Thoth is depicted as a man with an ibis or a baboon head. He is sometimes represented in animal form as a baboon. When in animal form he does not hold the ankh and WAS, which is commonly in his human forms hands."
+    android:background="@drawable/background">
+    
+
+</TextView>

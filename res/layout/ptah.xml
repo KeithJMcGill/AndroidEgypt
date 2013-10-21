@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Ptah is the god of craftsmanship, metalworking, carpenters, shipbuilders, and sculpture. He is the husband of Sekhmet and the father of Nefertum. He is depicted as a green skinned man with a shroud stuck to his skin, with a divine beard, and holding a scepter combinding three powerful Egyptian symbols, the WAS, the ankh, and the djed. The WAS symbol is for power, the ankh symbol is life, and the djed symbol represents stability."
+    android:background="@drawable/background">
+    
+
+</TextView>

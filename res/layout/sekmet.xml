@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Sekhmet is the warrior goddess and the goddess of healing. She is known to help protect Egyptian pharaohs during warfare. She is also a solar deity which is why she bears the solar disk on her head. She is often depicted as a women with the head of a lioness with a solar disk and uraeus on her head. Uraeus is a headdress of a cobra which symbolized sovereignty, royalty, deity, and divine authority."
+    android:background="@drawable/background">
+    
+
+</TextView>

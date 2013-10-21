@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Khonsu is the god of the moon. His name means traveler in Egyptian, which symbolizes how the moon travels across the night sky. He was believed to protect against wild animals, increase male virility, and to aid with healing. It is believed that he made the crescent moon shine which made women conceive, cattle become fertile, and all nostrils and every throat was filled with fresh air. He is often depicted as a green skinned mummy with the symbol of childhood, a side-lock of hair, as well as the menat necklace with crook and flail. The menat necklace was worn as a protector necklace. He is often sometimes shown with a falcon head, but he almost always has a sun disk and crescent moon on top of his head."
+    android:background="@drawable/background">
+    
+
+</TextView>

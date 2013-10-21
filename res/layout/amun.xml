@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Amun is the god of the wind. He is associated with the concept of air and invisibility. It is said that he created himself and then his surroundings. He is depicted with two plumes on his head with the ankh symbol and the WAS scepter in his hands. The WAS scepter was known for power or dominion. The ankh was known as rebirth. He is known as king of the gods and his major cult following was Thebes."
+    android:background="@drawable/background">
+    
+
+</TextView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="During the New Kingdom the god Amun gained enough recognition that he was combined with Ra to create Amun-Ra. This became the most important national god throughout the New Kingdom. He became known as the king of the gods. As he became more well-known monotheism began to erupt. Amun-Ra is the most widely recorded of the Egyptian gods. He was also worshiped outside of Egypt in Libya and Nubia."
+    android:background="@drawable/background">
+    
+
+</TextView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Isis is the goddess of nature and magic and is thought of as the ideal mother and wife. Isis was worshiped by slaves, sinners, artisans, and the downtrodden, as well as the wealthy, maidens, aristocrats, and rulers. She is sometimes referred to as the protector of the dead and the goddess of children. The name Isis means “throne” so she is depicted with a throne as a headdress and an ankh in her hand. Her major cult following was in both Philae and Abydos."
+    android:background="@drawable/background">
+    
+
+</TextView>

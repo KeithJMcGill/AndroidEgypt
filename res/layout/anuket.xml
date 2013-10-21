@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Anuket is the goddess of the Nile River. Her sacred animal was the gazelle. She is depicted as a women with a tall plumed headdress. When the Nile had its annual flood a festival for Anuket would begin. In this festival Egyptian’s would throw coins, gold, jewelry, and other gifts into the river to give thanks to Anuket."
+    android:background="@drawable/background">
+    
+
+</TextView>

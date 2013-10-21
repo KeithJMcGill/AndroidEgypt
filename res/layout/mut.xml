@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Mut is the mother of all gods. The name Mut means mother in Egyptian language. She is believed to be mother from which the cosmos emerged. She is often depicted as a women who wears the headdress of the wings of a white vulture, holding an ankh, wearing the crown of Upper and Lower Egypt, and in a dress of bright red or blue."
+    android:background="@drawable/background">
+    
+
+</TextView>

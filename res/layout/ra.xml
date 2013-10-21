@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Ra is the god of the sun. Ra was believed to have cried, and from his tears he wept came man. He was thought of as a creator god because the sun represented light, warmth, and growth. He is depicted as a human body with the head of a falcon and the sun disk resting on his head. He also holds the WES scepter and the ankh in his hands which is very common among gods. His biggest cult following was in Heliopolis."
+    android:background="@drawable/background">
+    
+
+</TextView>

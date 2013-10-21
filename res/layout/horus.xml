@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Horus is the god of the sun, war, and protection. He is the son of Osiris and Isis. He is often depicted as a falcon, but sometimes as a human with a falcon head. He often was depicted with a pschent, a red and white crown, which is a symbol of kingship over the entire kingdom of Egypt. Horus’ father Osiris was killed by Set so there were multiple stories of conflict between them to figure out who the ruler would be. In one story Horus becomes ruler by winning a boat race against Set by tricking him into using stone to build his boat so it would sink. He does this by painting his wood boat so that it looks like stone so that Set would build his of stone also. Set does not realize the boat will sink until the race is started and Horus sails off in his painted wood boat. Horus is one of the oldest and most significant deities in ancient Egypt."
+    android:background="@drawable/background">
+    
+
+</TextView>

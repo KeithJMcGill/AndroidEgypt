@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Sobek is the god of crocodiles. Crocodiles were feared by all in Egypt as the Nile River was infested with them and the Egyptian’s used it often. Egyptians believed that if they prayed to him that he would protect them while they traveled the Nile. He is depicted as a man with a crocodile head or in the crocodile form as an animal. Some stories of creation myths indicate that Sobek came out of the water of chaos to create the world. Inside temples for him there were sometimes sacred crocodiles kept in pools. These crocodiles were fed meat and mummified and buried in special animal cemeteries when they died. He was sometimes seen as a patron for army’s and represented strength and power."
+    android:background="@drawable/background">
+    
+
+</TextView>

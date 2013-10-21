@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:text="Nefertem is the god of the Egyptian blue lotus flower. It is believed that he was originally a lotus flower when the world was created who had arisen from the primal waters. He is often said to be beautiful since he was originally a flower. He is depicted as a man with a water lily headdress as a symbol of fragrance and beauty."
+    android:background="@drawable/background">
+    
+
+</TextView>
